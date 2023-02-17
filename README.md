@@ -17,7 +17,7 @@ License/Copyright
 
 Textual content is copyright Jacob Libbus (C) 2023 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2023 Jacov Libbus visibile in the text.
+repository and (C) 2023 Jacob Libbus visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
