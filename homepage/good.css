@@ -62,47 +62,16 @@ h2{
 }
 
 #history{
-    /* position:absolute;
-    top:14em; */
-    /* margin-bottom: 5em; */
-    /* transform: translateX(5em); */
     text-align: left;
     position: relative;
-    /* padding-right: 30em; */
-    /* padding-left: 2em; */
     flex-wrap: wrap !important;
-    /* border: solid black; */
     background-color: lightgray;
     width: 70%;
 }
-/* Good to this point */
 
 #offer{
-
-    /* text-align: left;
-    position: absolute;
-    top: 22em;
-    padding-right: 20em;
-    padding-left: 2em;
-    flex-wrap: wrap !important; */
-
-
     margin-bottom: 2em;
-    /* transform: translateX(-5em); */
     position: absolute;
     text-align: left;
     width: 150%
-    /* top: 7em; */
-    /* padding-right: 20em; */
-}
-
-#footer{
-    position: absolute;
-    left: 0;
-    /* bottom: 1em; */
-    width: 100%;
-    height: min-content;
-    text-align: center;
-    padding: 0.1em;
-    top:2em;
 }

@@ -1,0 +1,42 @@
+body{
+    background-image: url("Image.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: rgb(183, 0, 255);
+    text-align: center;
+    font-size: large;
+}
+
+#title{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#image{
+    width: 3em;
+    display: none;
+}
+h2{
+    color: rgb(2, 107, 11);
+    text-decoration: underline;
+}
+#about{
+    position: relative;
+    top: 2em;
+    color: brown;
+}
+
+#history{
+    color:rgb(0, 38, 255) 
+}
+.points{
+    color:red;
+}
+#points{
+    position: relative;
+    top: 1em;
+    color: white;
+}
+.offer-description{
+    color: yellow
+}
